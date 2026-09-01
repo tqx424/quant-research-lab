@@ -7,5 +7,3 @@ Goal:
 Build equity quantitative research pipeline.
 
 Data → Factor → Backtest → Portfolio
-
-hihi
